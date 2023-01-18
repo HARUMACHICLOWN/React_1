@@ -141,23 +141,39 @@ function App() {
 
 
 
+//       <div>
+//         <table>
+//           <tr>
+//             <th>Имя</th>
+//             <th>Фамилия</th>
+//             <th>Дни</th>
+//             <th>Ставка</th>
+//             <th>Зарплата</th>
+//           </tr>
+//           <tr>
+//             <td>{workers[0].name}</td>
+//             <td>{workers[0].surname}</td>
+//             <td>{workers[0].days}</td>
+//             <td>{workers[0].salary}</td>
+//             <td>{workers[0].days * workers[0].salary}</td>
+//           </tr>
+//           <tr>
+//             <td>{workers[1].name}</td>
+//             <td>{workers[1].surname}</td>
+//             <td>{workers[1].days}</td>
+//             <td>{workers[1].salary}</td>
+//             <td>{workers[1].days * workers[0].salary}</td>
+//           </tr>
+//         </table>
+//       </div>
 
+//     </div>
+//   );
 
 
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
